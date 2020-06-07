@@ -24,4 +24,4 @@ localhost:8081/api/v1/unwrap
 	"urlString": "{yourShortUrl}"
 }
 
-localhost:8081/api/v1/unwrap?shortUrl={yourShortUrl}
+GET localhost:8081/api/v1/unwrap?shortUrl={yourShortUrl}
